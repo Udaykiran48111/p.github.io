@@ -24,9 +24,9 @@ body {
 .container {
     position: relative;
 }
-
+/* jbhbjhbbh */
 .card {
-    background-image: url('/images/background.jpg');
+    background-image: url('/images/b.jpg');
     background-size: cover; /* Cover the entire element */
     background-position: center; /* Center the background image */
     padding: 20px;
